@@ -1,0 +1,18 @@
+//
+//  PrefixHeader.pch
+//  CWOneCopy
+//
+//  Created by 李春菲 on 2018/1/17.
+//  Copyright © 2018年 李春菲. All rights reserved.
+//
+
+#ifndef PrefixHeader_h
+#define PrefixHeader_h
+
+#define CWScreenW [UIScreen mainScreen].bounds.size.width
+#define CWScreenH [UIScreen mainScreen].bounds.size.height
+
+#endif /* PrefixHeader_h */
+
+#import "UIView+CWFrame.h"
+
